@@ -80,7 +80,7 @@ Loyihada foydalanilgan texnologiyalar:
 Repository clone qilish:
 
 ```bash
-git clone https://github.com/username/yordamchi-hub.git
+git clone https://github.com/abadovsardor45-alt/yordamchi-hub.git
 ```
 
 Project papkasiga kirish:
