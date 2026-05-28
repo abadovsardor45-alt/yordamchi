@@ -1,0 +1,6 @@
+{
+  "name": "Hayotiy Yordamchi - Universal Helper Hub",
+  "description": "Insonlarga kundalik hayotda yordam beradigan, salomatlik, reja, moliya va o'z-o'zini rivojlantirish uchun universal yordamchi platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
